@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tdk-khoitran102/**
+- 📫 How to reach me **trandinhkhoi102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
